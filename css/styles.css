@@ -1,4 +1,4 @@
-﻿* {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -107,7 +107,7 @@ nav ul li a {
 }
 
 .add-to-cart {
-    background-color: #0066FF;
+    background-color: orange;
     /* الأزرق */
     color: white;
     border: none;
@@ -118,13 +118,13 @@ nav ul li a {
 }
 
 .add-to-cart:hover {
-    background-color: #FFCC00;
+    background-color: blue;
     /* الأخضر */
 }
 
 footer {
-    background-color: #008080;
-    color: white;
+    background-color: #0066FF;
+    color: orange;
     text-align: center;
     padding
 }
